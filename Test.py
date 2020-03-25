@@ -1,3 +1,5 @@
+# Author: Luwey Hon
+# This is what a push is
 class Checkers:
 
     def __init__(self):
