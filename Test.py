@@ -1,3 +1,4 @@
+# Author: Luwey Hon
 class Checkers:
 
     def __init__(self):
