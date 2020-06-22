@@ -1,1 +1,1 @@
-Plays the checkers games
+Plays the checkers games. in progress
